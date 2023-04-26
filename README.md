@@ -49,4 +49,3 @@ it should automaticly open your browser.
 - OpenWeatherMap API
 - HTML
 - Webpack
-- App project created by Vite

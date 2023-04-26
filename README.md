@@ -48,4 +48,3 @@ it should automaticly open your browser.
 - Styled components
 - OpenWeatherMap API
 - HTML
-- Webpack
